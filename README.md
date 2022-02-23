@@ -1,0 +1,2 @@
+# websiteblocker
+block given domains
