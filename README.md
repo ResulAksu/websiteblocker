@@ -1,13 +1,12 @@
 # websiteblocker
 Do's:
-  Block multiple things at the same time
   Window stretches
   
 How to:
   Start with root access/permissions
   
-Problems: Unblock searches for one character in a word and deletes the whole. 
+Problems: Unblock searches for one character in a word and deletes the whole , safe list that is created to show everytime whats blocked
 
-To Do: Show what is already blocked - maybe with txt file where info is taken to.
+To Do: 
            Solve Problems
-           Integrate all pop. domain endings
+           Integrate all popular domain endings
