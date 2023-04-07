@@ -14,6 +14,7 @@ e.insert(0, "insert domain name")
 
 hosts_path = "C:\Windows\System32\drivers\etc\hosts"
 redirect = "127.0.0.1"
+
 # checkboxes
 global comvar
 global orgvar
@@ -27,13 +28,12 @@ checkerDE = Checkbutton(root, text=".de", variable=devar)
 checkerCOM.grid()
 checkerORG.grid()
 checkerDE.grid()
+
 # globals
 global mem
 mem = []
 
 # methods
-
-
 def mitwriter(domain, ending):
     x_writer = open("mitschreiber.txt", 'r+')
     content = x_writer.read()
